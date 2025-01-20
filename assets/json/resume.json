@@ -2,11 +2,11 @@
   "_comment": "after email below, I have removed phone, changed <label> to <title>",
   "basics": {
     "name": "Arnav Gautam",
-    "title": "Undergraduate in Computer Science and Engineering",
+    "title": "Student",
     "image": "",
     "email": "arnavg@iitbhilai.ac.in",
-    "url": "https://github.com/arnavwinner",
-    "summary": "An undergraduate student at IIT Bhilai in the department of Computer Science and Engineering",
+    "url": "arnavwinner.github.io",
+    "summary": "Undergraduate in Computer Science and Engineering",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -17,20 +17,25 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "ArnavGautam24",
+        "url": "https://twitter.com/ArnavGautam24"
+      },
+      {
+        "network": "Github",
+        "username": "arnavwinner",
+        "url": "https://github.com/arnavwinner"
       }
     ]
   },
   "work": [
     {
-      "name": "Indian Institute of Technology, Bhilai",
-      "position": "Student",
-      "url": "arnavwinner.github.io",
-      "startDate": "2024-11-29",
-      "endDate": "2025-07-31",
-      "summary": "Student.",
-      "highlights": ["Computer Science and Engineering"]
+      "name": "Visa Inc.",
+      "position": "Software Engineer Intern",
+      "url": "https://www.visa.co.in/",
+      "startDate": "2024-05-07",
+      "endDate": "2024-07-13",
+      "summary": "Developed APIs for intra-visa network",
+      "highlights": ["Worked at Data and AI Platform", "with Microservices and API Team"]
     }
   ],
   "volunteer": [
@@ -47,24 +52,14 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Indian Institute of Technology, Bhilai",
+      "location": "Bhilai, India",
+      "url": "https://www.iitbhilai.ac.in/",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2021-11-29",
+      "endDate": "Present",
+      "score": "7.91"
     }
   ],
   "certificates": [

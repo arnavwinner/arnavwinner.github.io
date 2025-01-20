@@ -1,12 +1,12 @@
 {
+  "_comment": "after email below, I have removed phone, changed <label> to <title>",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Arnav Gautam",
+    "title": "Undergraduate in Computer Science and Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "arnavg@iitbhilai.ac.in",
+    "url": "https://github.com/arnavwinner",
+    "summary": "An undergraduate student at IIT Bhilai in the department of Computer Science and Engineering",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Indian Institute of Technology, Bhilai",
+      "position": "Student",
+      "url": "arnavwinner.github.io",
+      "startDate": "2024-11-29",
+      "endDate": "2025-07-31",
+      "summary": "Student.",
+      "highlights": ["Computer Science and Engineering"]
     }
   ],
   "volunteer": [

@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "More about me:-",
           section: "Navigation",
           handler: () => {
@@ -431,16 +431,26 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-joined-as-freshman-at-iit-bhilai",
+          title: 'Joined as freshman at IIT Bhilai!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-as-a-core-member-at-ingenuity-competitive-programming-club",
+          title: 'Started as a Core Member at Ingenuity (Competitive Programming Club)!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joined-as-core-member-at-ebsb-ek-bharat-shrestha-bharat",
+          title: 'Joined as Core Member at EBSB (Ek Bharat Shrestha Bharat)!',
+          description: "",
+          section: "News",},{id: "news-joined-as-coordinator-at-ingenuity",
+          title: 'Joined as Coordinator at Ingenuity!',
+          description: "",
+          section: "News",},{id: "news-started-my-summer-internship-at-visa",
+          title: 'Started my Summer Internship at Visa!',
+          description: "",
+          section: "News",},{id: "news-finished-my-summer-internship-at-visa",
+          title: 'Finished my Summer Internship at Visa',
+          description: "",
+          section: "News",},{id: "news-joined-as-member-at-fintech-society",
+          title: 'Joined as Member at FinTech Society',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

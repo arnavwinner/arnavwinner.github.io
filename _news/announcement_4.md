@@ -1,7 +1,7 @@
 ---
 layout: post
-date: November, 2021
+date: May, 2023
 inline: true
 related_posts: false
 ---
-Joined as freshman at IIT Bhilai!
+Joined as Coordinator at Ingenuity!

@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: May, 2022
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Joined as Core Member at EBSB (Ek Bharat Shrestha Bharat)!

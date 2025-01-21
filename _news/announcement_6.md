@@ -1,7 +1,7 @@
 ---
 layout: post
-date: November, 2021
+date: July, 2024
 inline: true
 related_posts: false
 ---
-Joined as freshman at IIT Bhilai!
+Finished my Summer Internship at Visa
